@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L057HQMGfpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\allmutedz\\Desktop\\Проекты\\webcrawler c#\\Webcrawler\\Webcrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allmutedz\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}

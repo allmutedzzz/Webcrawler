@@ -1,0 +1,5 @@
+C:\Users\allmutedz\Desktop\Проекты\webcrawler c#\Webcrawler\obj\Debug\net8.0\Webcrawler.csproj.AssemblyReference.cache
+C:\Users\allmutedz\Desktop\Проекты\webcrawler c#\Webcrawler\obj\Debug\net8.0\Webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allmutedz\Desktop\Проекты\webcrawler c#\Webcrawler\obj\Debug\net8.0\Webcrawler.AssemblyInfoInputs.cache
+C:\Users\allmutedz\Desktop\Проекты\webcrawler c#\Webcrawler\obj\Debug\net8.0\Webcrawler.AssemblyInfo.cs
+C:\Users\allmutedz\Desktop\Проекты\webcrawler c#\Webcrawler\obj\Debug\net8.0\Webcrawler.csproj.CoreCompileInputs.cache
